@@ -55,7 +55,7 @@ export default function Home() {
         <Sidebar className="w-60">
           <SidebarHeader>
             <Image
-              src="https://picsum.photos/60/60"
+              src="https://i.pravatar.cc/60"
               alt="Logo"
               width={60}
               height={60}
