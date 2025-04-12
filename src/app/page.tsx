@@ -128,8 +128,8 @@ export default function Home() {
                   <CardContent>
                     <div className={avatarStyle}>
                       <Image
-                        src="https://picsum.photos/300/300"
-                        alt="Syed Mohamed R"
+                        src="https://i.imgur.com/nV29VQu.png"
+                        alt="Software Testing"
                         width={300}
                         height={300}
                         layout="responsive"
@@ -316,3 +316,4 @@ export default function Home() {
     
   );
 }
+
